@@ -1,0 +1,13 @@
+<!--pages/home_center/power.wxml-->
+<block class="power_detail_root">
+  <scroll-view>
+    <block  wx:for="{{power_list}}" wx:key="{{item.data}}" wx:for-item="item" wx:for-index='idx'>
+      <view class="power_item" >
+        <text class="text_power_date">{{item.date}}</text>
+      <text class="text_power_power">{{item.power}}</text>
+      </view>
+    </block>
+  </scroll-view>
+
+
+</block>

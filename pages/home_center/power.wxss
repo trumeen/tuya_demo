@@ -1,0 +1,9 @@
+/* pages/home_center/power.wxss */
+.power_item{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.text_power_power{
+ margin-left: 50rpx;
+}
