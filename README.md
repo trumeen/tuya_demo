@@ -4,5 +4,5 @@
 
 ### 开发截图，界面有点丑，待优化
 
-<img src="https://user-images.githubusercontent.com/16877570/115415516-8eea2300-a229-11eb-807b-1ea5afde8ff6.png" alt="image" style="zoom:30%;" /> 
-<img src="https://user-images.githubusercontent.com/16877570/115415640-a7f2d400-a229-11eb-86dd-34c23c17adf7.png" alt="image" style="zoom:30%;" />
+![image](https://user-images.githubusercontent.com/16877570/115493735-e2468a80-a296-11eb-8ed2-693ba0c3ed74.png)
+![image](https://user-images.githubusercontent.com/16877570/115493812-030ee000-a297-11eb-8a99-116c345bcf68.png)
